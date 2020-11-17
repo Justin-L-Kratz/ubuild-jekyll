@@ -12,5 +12,9 @@ page_sections:
   media:
     image: "/uploads/2018/06/21/forestry-symbol.svg"
     alt_text: Forestry I O Logo
+menu:
+  main:
+    weight: 2
+    title: Test
 
 ---
