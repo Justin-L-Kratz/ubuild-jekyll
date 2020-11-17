@@ -3,6 +3,10 @@ layout: blocks
 title: Test Page
 date: 
 page_sections:
+- template: navigation-header
+  block: header-1
+  logo: ''
+  navigation: []
 - template: content-feature
   block: feature-1
   media_alignment: Right
@@ -12,6 +16,11 @@ page_sections:
   media:
     image: "/uploads/2018/06/21/forestry-symbol.svg"
     alt_text: Forestry I O Logo
+- template: 1-column-text
+  block: one-column-1
+  headline: Headline
+  content: Lorem ipsum blah blah blah
+  slug: ''
 menu:
   main:
     weight: 2
